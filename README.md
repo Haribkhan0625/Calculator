@@ -1,2 +1,2 @@
 # Calculator
-A basic calculator with tkinter
+A basic Scientific Calculator with tkinter
